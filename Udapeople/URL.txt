@@ -1,0 +1,10 @@
+[URL01]
+Github Repo: https://github.com/ahmed8badr/Udapeople.git
+[URL02]
+S3 Bucket(front-end): http://udapeople-eed8e.s3-website-us-west-2.amazonaws.com
+[URL03]
+CloudFront Front-end: https://d2ypxp2jqp6zmc.cloudfront.net
+[URL04]
+Back-end Healthy: http://35.90.150.36:3030/api/status
+[URL05]
+Prometheus Server: http://ec2-54-187-8-132.us-west-2.compute.amazonaws.com:9090/
